@@ -1,0 +1,27 @@
+*{
+    font-family: 'Oswald', sans-serif;
+}
+body{
+    text-align: center;
+    background-image: url(tumblr_3467d6f8e817b36926898e774e0d3c60_aba97fc5_400.gif);
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+}
+
+li{
+    display: inline;
+}
+li a{
+    text-decoration: none;
+    padding: 50px;
+    color: blue;
+    transition: .3s;
+}
+li a:hover{
+    transition: .3s;
+    color: blueviolet;
+    padding: 100px;
+}
+h1{
+    color: red;
+}
